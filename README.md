@@ -1,12 +1,12 @@
 # Independent-project-website.html
 
-#### _{Brief description of application}, January 27, 2019
+#### _{Brief description of application},February 24th, 2019
 
 #### By Neil Bateman
 
 ## Description
 
-This is a simple HTML website created to practice various HTML tags, Bootstrap classes, custom stylesheets, clean indentation, and regular commits. It is a blogging website dedicated to the discussion of topics that interest Neil Bateman. 
+This is a simple HTML and Java script website created to practice various HTML tags, Javasscript, jQuery, Bootstrap classes, custom stylesheets, clean indentation, client and business logic, and regular commits. It is the first full website created by Neil Bateman with javascript interactivity, and is a simple survey producing vacation destination suggestions based on user input.
 
 ## Setup/Installation Requirements
 
@@ -25,7 +25,7 @@ Contact Neil Bateman at neilgbateman@gmail.com
 
 ## Technologies Used
 
-HTML, CSS, Bootstrap, Github
+HTML, Javascript, jQuery, CSS, Bootstrap, Github
 
 ### License
 
